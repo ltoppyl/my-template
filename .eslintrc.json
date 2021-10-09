@@ -40,7 +40,7 @@
     "@typescript-eslint/explicit-module-boundary-types": 0,
     "@typescript-eslint/no-unused-vars": 2,
     "import/no-named-as-default-member": 0,
-    "no-console": "off",
+    "no-console": "warn",
     "no-undef": "off",
     "import/order": [
       2,
